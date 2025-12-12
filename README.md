@@ -1,3 +1,4 @@
+<img width="1199" height="668" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/aafc352f-dc5e-4182-ad84-9430bcaa3372" />
 🌟 Customer Shopping Behavior Analysis
 
 SQL • Python • Power BI Dashboard
